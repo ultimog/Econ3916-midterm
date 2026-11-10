@@ -2,7 +2,7 @@
 # Does higher government debt go with slower growth the next year?
 
 Income growth and general government debt across 191 economies, 2014-2023.
-[Open the notebook in Colab](https://colab.research.google.com/drive/1x4o7eZhR-ERw851Waq1ZkcAi4fqPgjfg?usp=sharing) · [Report (PDF)](Midterm_Report.pdf)
+[Open the notebook in Colab](https://colab.research.google.com/drive/1x4o7eZhR-ERw851Waq1ZkcAi4fqPgjfg?usp=sharing) · [Report (PDF)](Midterm%20Report.pdf)
 
 ## Question
 
