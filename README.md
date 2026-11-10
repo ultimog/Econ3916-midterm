@@ -1,7 +1,7 @@
 # Econ3916-midterm
 # Does higher government debt go with slower growth the next year?
 
-ECON 3916 midterm project, [YOUR NAME]. Income growth and general government debt across 191 economies, 2014-2023.
+ECON 3916 midterm project, Gachy Ultimo. Income growth and general government debt across 191 economies, 2014-2023.
 
 [Open the notebook in Colab](YOUR-COLAB-LINK) · [Report (PDF)](Midterm_Report.pdf)
 
