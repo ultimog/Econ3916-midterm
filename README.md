@@ -3,8 +3,6 @@
 
 Income growth and general government debt across 191 economies, 2014-2023.
 
-[Open the notebook in Colab](YOUR-COLAB-LINK) · [Report (PDF)](Midterm_Report.pdf)
-
 ## Question
 
 Across 191 economies from 2014 to 2023, is higher general government gross debt (% of GDP) in the previous year associated with slower growth in real income per person, holding last year's income and each country and each year fixed?
